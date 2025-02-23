@@ -89,3 +89,5 @@ The model parameter used is llama-3.3-70b-versatile, but this can be changed as 
 
 To use a virtual env you can use this command to activate it on mac:
 source .venv/bin/activate
+
+make sure to have a .env file with GROQ_API_KEY
